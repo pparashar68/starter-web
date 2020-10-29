@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 I am going to commit this to compare with just staged file and local commit
+this is only going to be staged area to test
 
 ## Deployment
 ## Contribute
